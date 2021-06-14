@@ -6,16 +6,7 @@ const repositoryUrl = 'https://github.com/sindresorhus/pokemon';
 const reportText = `Please report to ${repositoryUrl}/issues if we missed something.`;
 
 const languages = new Set([
-	'de',
-	'en',
-	'fr',
-	'es',
-	'ja',
-	'ko',
-	'ru',
-	'th',
-	'zh-Hans',
-	'zh-Hant'
+	'en'
 ]);
 
 const randomNameGenerators = new Map();
