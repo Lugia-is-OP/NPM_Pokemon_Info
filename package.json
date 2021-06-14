@@ -3,12 +3,11 @@
 	"version": "2.2.0",
 	"description": "Get Pokémon names",
 	"license": "MIT",
-	"repository": "sindresorhus/pokemon",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "Lugia-is-OP/NPM_Pokemon_Info",
+	"funding": "https://github.com/Lugia-is-OP/NPM_Pokemon_Info",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Lugia-is-OP",
+		"email": "sindresorhus@gmail.com"
 	},
 	"engines": {
 		"node": ">=8"
