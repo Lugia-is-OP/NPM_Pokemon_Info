@@ -1,0 +1,82 @@
+{
+  "_from": "pokemon",
+  "_id": "pokemon@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-3eXVhrr5XzEHVFw32Zl58hU8T5RcdUdLVTLETQPOsssGXMfxq816euN1DQFZI2kbHXS3FFQ4W6AAzNm18DPanw==",
+  "_location": "/updated-pokemon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "updated-pokemon",
+    "name": "updated-pokemon",
+    "escapedName": "updated-pokemon",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pokemon/-/pokemon-2.2.0.tgz",
+  "_shasum": "93c569471e48151302eeb98848665064eb463324",
+  "_spec": "pokemon",
+  "bugs": {
+    "url": "https://github.com/Lugia-is-OP/NPM_Pokemon_Info"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  },
+  "deprecated": false,
+  "description": "Get Pokémon names",
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "data"
+  ],
+  "funding": "https://github.com/sponsors/sindresorhus",
+  "homepage": "https://github.com/sindresorhus/pokemon#readme",
+  "keywords": [
+    "pokemon",
+    "names",
+    "creatures",
+    "words",
+    "list",
+    "array",
+    "random",
+    "mock",
+    "placeholder",
+    "fixture",
+    "data"
+  ],
+  "license": "MIT",
+  "name": "pokemon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/pokemon.git"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "tsd": {
+    "compilerOptions": {
+      "resolveJsonModule": true
+    }
+  },
+  "version": "2.2.0",
+  "xo": {
+    "rules": {
+      "import/extensions": "off"
+    }
+  }
+}
