@@ -1,54 +1,59 @@
 {
-	"name": "updated-pokemon",
-	"version": "2.2.0",
-	"description": "Get Pokémon names",
-	"license": "MIT",
-	"repository": "Lugia-is-OP/NPM_Pokemon_Info",
-	"funding": "https://github.com/Lugia-is-OP/NPM_Pokemon_Info",
-	"author": {
-		"name": "Lugia-is-OP",
-		"email": "sindresorhus@gmail.com"
-	},
-	"engines": {
-		"node": ">=8"
-	},
-	"scripts": {
-		"test": "xo && ava && tsd"
-	},
-	"files": [
-		"index.js",
-		"index.d.ts",
-		"data"
-	],
-	"keywords": [
-		"pokemon",
-		"names",
-		"creatures",
-		"words",
-		"list",
-		"array",
-		"random",
-		"mock",
-		"placeholder",
-		"fixture",
-		"data"
-	],
-	"dependencies": {
-		"unique-random-array": "^2.0.0"
-	},
-	"devDependencies": {
-		"ava": "^1.4.1",
-		"tsd": "^0.7.2",
-		"xo": "^0.24.0"
-	},
-	"tsd": {
-		"compilerOptions": {
-			"resolveJsonModule": true
-		}
-	},
-	"xo": {
-		"rules": {
-			"import/extensions": "off"
-		}
-	}
+  "name": "updated-pokemon",
+  "version": "2.2.0",
+  "description": "Get Pokémon names",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lugia-is-OP/NPM_Pokemon_Info.git"
+  },
+  "funding": "https://github.com/Lugia-is-OP/NPM_Pokemon_Info",
+  "author": "Lugia-is-OP <sindresorhus@gmail.com>",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "data"
+  ],
+  "keywords": [
+    "pokemon",
+    "names",
+    "creatures",
+    "words",
+    "list",
+    "array",
+    "random",
+    "mock",
+    "placeholder",
+    "fixture",
+    "data"
+  ],
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1",
+    "tsd": "^0.7.2",
+    "xo": "^0.24.0"
+  },
+  "tsd": {
+    "compilerOptions": {
+      "resolveJsonModule": true
+    }
+  },
+  "xo": {
+    "rules": {
+      "import/extensions": "off"
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/Lugia-is-OP/NPM_Pokemon_Info/issues"
+  },
+  "homepage": "https://github.com/Lugia-is-OP/NPM_Pokemon_Info#readme",
+  "main": "index.js"
 }
