@@ -1,15 +1,6 @@
 declare namespace pokemon {
 	type Language =
-		| 'de'
-		| 'en'
-		| 'fr'
-		| 'es'
-		| 'ja'
-		| 'ko'
-		| 'ru'
-		| 'th'
-		| 'zh-Hans'
-		| 'zh-Hant';
+		| 'en';
 }
 
 declare const pokemon: {
