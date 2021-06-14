@@ -4,14 +4,10 @@
 
 The name list is just a [JSON file](data/en.json) and can be used wherever.
 
-![](header.jpg)
-
 ## Install
 
 ```
 $ npm install updated-pokemon
 ```
 ## From
-> https://www.npmjs.com/package/pokemon
-
-Just editited it
+> Just editited this =>[Package](https://www.npmjs.com/package/pokemon)
