@@ -10,4 +10,4 @@ The name list is just a [JSON file](data/en.json) and can be used wherever.
 $ npm install updated-pokemon
 ```
 ## From
-> Just editited this =>[Package](https://www.npmjs.com/package/pokemon)
+> Just editited this => [Package](https://www.npmjs.com/package/pokemon)
