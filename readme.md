@@ -12,3 +12,6 @@ $ npm install updated-pokemon
 ## From
 > Just editited this => [Package](https://www.npmjs.com/package/pokemon)
 
+## Published 
+Check [Updated-Pokemon](https://www.npmjs.com/package/updated-pokemon)
+Thanks to **sindresorhus** for Making the Real [Package](https://www.npmjs.com/package/pokemon)
