@@ -63,7 +63,7 @@
   "name": "pokemon",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sindresorhus/pokemon.git"
+    "url": "git+https://github.com/Lugia-is-OP/NPM_Pokemon_Info.git"
   },
   "scripts": {
     "test": "xo && ava && tsd"
