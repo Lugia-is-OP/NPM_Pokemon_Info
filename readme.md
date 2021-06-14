@@ -11,3 +11,4 @@ The name list is just a [JSON file](data/en.json) and can be used wherever.
 ```
 $ npm install updated-pokemon
 ```
+## From
